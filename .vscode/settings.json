@@ -1,0 +1,8 @@
+{
+  "clangd.path": "C:\\Espressif\\tools\\esp-clangd\\esp-21.1.3_20260408\\esp-clangd\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\linco\\OneDrive\\Documents\\GitHub\\ESP32_DRM_Controller\\build"
+  ]
+}
